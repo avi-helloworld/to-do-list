@@ -77,7 +77,7 @@ html,body{
     justify-content: space-between;
 }
 #container #todolist ul li span{
-    width: 40%;
+    width: 80%;
     text-align: left;
     font-size: 1em;
     font-weight: 600;
